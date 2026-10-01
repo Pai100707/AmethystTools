@@ -1,0 +1,26 @@
+prefix: ""
+no-permission: "{prefix}&cYou don't have permission."
+reloaded: "{prefix}&aPlugin configuration reloaded."
+only-player: "{prefix}&cThis command is only for players."
+usage: "{prefix}&eUsage: &f/amethysttools <reload|amethyst_pickaxe|amethyst_axe|amethyst_shovel> [player]"
+unknown-subcommand: "{prefix}&cUnknown subcommand."
+
+given: "{prefix}&aYou received the AMETHYST PICKAXE!"
+item-amethyst-pickaxe-name: "&dAMETHYST PICKAXE"
+item-amethyst-pickaxe-lore-detail: "&7Feature: &fBreaks 3x3"
+item-amethyst-pickaxe-lore-expire: "&7Expires in: &c{time}"
+
+given-axe: "{prefix}&aYou received the AMETHYST AXE!"
+item-amethyst-axe-name: "&dAMETHYST AXE"
+item-amethyst-axe-lore-detail: "&7Feature: &fFells whole tree"
+item-amethyst-axe-lore-expire: "&7Expires in: &c{time}"
+
+given-shovel: "{prefix}&aYou received the AMETHYST SHOVEL!"
+item-amethyst-shovel-name: "&dAMETHYST SHOVEL"
+item-amethyst-shovel-lore-detail: "&7Feature: &fDigs 3x3"
+item-amethyst-shovel-lore-expire: "&7Expires in: &c{time}"
+
+given-hoe: "{prefix}&aYou received the AMETHYST HOE!"
+item-amethyst-hoe-name: "&dAMETHYST HOE"
+item-amethyst-hoe-lore-detail: "&7Feature: &fHarvests 3x3 & replants"
+item-amethyst-hoe-lore-expire: "&7Expires in: &c{time}"
