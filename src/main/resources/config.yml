@@ -1,0 +1,15 @@
+language: en
+
+tools:
+  amethyst_pickaxe:
+    days: 3
+  amethyst_axe:
+    days: 3
+  amethyst_shovel:
+    days: 3
+  amethyst_hoe:
+    days: 3
+
+time-format: "dd:HH:mm:ss"
+update-time: 60
+axe-block-limit: 8192
